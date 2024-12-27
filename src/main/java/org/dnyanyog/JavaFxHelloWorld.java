@@ -14,7 +14,7 @@ public class JavaFxHelloWorld extends Application{
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		// TODO Auto-generated method stub
+	
 		Stage stage = new Stage();
 		
 		stage.setTitle("First Window");
